@@ -71,15 +71,6 @@ body {
 	background-color: #72b1fd;
 }
 
-.core__tail.-blue:before {
-	position: absolute;
-	content: "";
-	width: 17px;
-	height: 17px;
-	border-radius: 50%;
-	bottom: -8.5px;
-	background-color: #72b1fd;
-}
 
 .core__tail.-blue:after {
 	position: absolute;
@@ -90,6 +81,17 @@ body {
 	top: -8.5px;
 	background-color: #72b1fd;
 }
+
+.core__tail.-blue:before {
+	position: absolute;
+	content: "";
+	width: 17px;
+	height: 17px;
+	border-radius: 50%;
+	bottom: -8.5px;
+	background-color: #72b1fd;
+}
+
 
 .core__tail.-red {
 	width: 30px;
