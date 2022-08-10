@@ -1,1 +1,1 @@
-# [comet](https://github.com/alexust1820/comet)
+# [comet](https://alexust1820.github.io/comet/)
